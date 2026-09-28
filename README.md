@@ -1,5 +1,7 @@
 # ADA Compoanamt
 
+Created by **Vatsal Patel**.
+
 Copy the accessibility/ folder into a React + TypeScript project. The component depends only on React and
 standard browser APIs; it has no Next.js imports, paid SDK, analytics or network calls.
 Its CSS is imported by `AccessibilityPanel.tsx`; your bundler must support CSS imports.
