@@ -76,4 +76,4 @@ checks. Preferences supplement accessible markup, contrast and interaction desig
 
 ## Repository contents
 
-The accessibility/ directory contains the reusable component, styles, settings, and hooks. This repository contains no Voicesis website pages, assets, credentials, or application history. It is a copy-in component, not a standalone website or published npm package. Use an existing React application with TypeScript and support for CSS imports; the component has been tested with React 19.
+The accessibility/ directory contains the reusable component, styles, settings, and hooks. This is an independent accessibility component for use across React projects. It is a copy-in component, not a standalone website or published npm package. Use an existing React application with TypeScript and support for CSS imports; the component has been tested with React 19.
