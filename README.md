@@ -1,4 +1,4 @@
-# ADA Compoanamt
+# ADA Component
 
 Created by **Vatsal Patel**.
 
